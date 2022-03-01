@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ismael Guerrero
-- 👀 I’m interested in Cybersecurity, 
-- 🌱 I’m currently learning Full Web Stack Development
+- 👋 Hi, I’m Ismael Guerrero, Telematics Engineer
+- 👀 I’m interested in Cybersecurity, Machine Learning
+- 🌱 I’m currently learning Full Web Stack Development , Pentesting
 
 - 📫 How to reach me ...
+
 
 <!---
 ismagician/ismagician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
