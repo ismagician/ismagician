@@ -1,6 +1,12 @@
 - 👋 Hi, I’m Ismael Guerrero, Telematics Engineer
-- 👀 I’m interested in Cybersecurity, Machine Learning
-- 🌱 I’m currently learning Full Web Stack Development , Pentesting
+- 👀 I’m interested in:
+-         Cybersecurity
+-         Machine Learning
+-         Open Source
+-         Blockchain (Smart Contracts)
+- 🌱 I’m currently learning 
+          Full Web Stack Development
+          Pentesting
 
 
 
