@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cybersecurity, Machine Learning
 - 🌱 I’m currently learning Full Web Stack Development , Pentesting
 
-- 📫 How to reach me ...
 
 
 <!---
