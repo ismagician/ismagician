@@ -1,13 +1,17 @@
-- 👋 Hi, I’m Ismael Guerrero, Telematics Engineer
-- 👀 I’m interested in:
--         Cybersecurity
--         Machine Learning
--         Open Source
--         Blockchain (Smart Contracts)
-- 🌱 I’m currently learning 
-          Full Web Stack Development
-          Pentesting
+* 👋 Hi, I’m Ismael Guerrero, Telematics Engineer
+	* Text Lists Images Headers & Quotes Code Extras
+	* It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+	* It's very easy to make some words bold and other words italic with Markdown. You can even link to Google!
 
+* 👀 I’m interested in:
+	* Cybersecurity
+	* Machine Leanrning
+	* Open Source
+	
+ * 🌱 I’m currently learning 
+	* Full Stack Web Development
+	* Pentesting
+	
 
 
 <!---
