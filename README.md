@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Ismael Guerrero <img src="https://wallpapercave.com/wp/53CKHfk.jpg" height="60px" width=100px/> </h1>
+<h1>Hello  <img src="https://www.mobygames.com/images/promo/l/467137-littlebigplanet-render.png"  height="50px" />   I'm Ismael Guerrero</h1>
 
 
 
@@ -22,7 +22,7 @@ class Ismagician:
 
 if __name__ == '__main__':
     me = Ismagician()
-    print("Hi, world I'm %s, again " % me.name)
+    print("Hi I'm %s, again " % me.name)
 ```
 
 
