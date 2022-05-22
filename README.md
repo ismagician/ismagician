@@ -24,9 +24,7 @@ if __name__ == '__main__':
     me = Ismagician()
     print("Hi I'm %s, again " % me.name)
 ```
-   <a href="https://www.linkedin.com/in/ismael-guerrero-ab3039234/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  
+
 
 <!---
 ismagician/ismagician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
