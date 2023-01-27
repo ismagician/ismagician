@@ -25,9 +25,6 @@ if __name__ == '__main__':
     print("Hi I'm %s, again " % me.name)
 ```
 
-<a href="https://app.hackthebox.com/profile/951481"> <img src="http://www.hackthebox.eu/badge/image/951481" alt="Hack The Box"> </a>
-
-
 <!---
 ismagician/ismagician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
