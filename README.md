@@ -23,7 +23,10 @@ class Ismagician:
 if __name__ == '__main__':
     me = Ismagician()
     print("Hi I'm %s, again " % me.name)
+
 ```
+
+<a href="https://app.hackthebox.com/profile/951481"> <img src="http://www.hackthebox.eu/badge/image/951481" alt="Hack The Box"> </a>
 
 <!---
 ismagician/ismagician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
